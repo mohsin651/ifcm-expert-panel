@@ -1,0 +1,3 @@
+target,left,right,difference,ci_low,ci_high,valid_bootstrap,requested_bootstrap,unit,seed
+A_error_vs_correct,total_hesitation,a_low_confidence,-0.21410982516621524,-0.30276419680638855,-0.12847572788780612,2000,2000,case,17
+perception_vs_knowledge_on_A_errors,source_balance,existing_A_flip_minus_knowledge,0.06443050193050193,-0.04661421899236594,0.17721970452279515,2000,2000,case,19

@@ -1,0 +1,2 @@
+n_strong_fit_edges,n_sign_disagreement,wrong_edge_detection_auroc,definition
+8,0,,Sign disagreement with fit-only phi for |phi|>0.1; not clinical truth

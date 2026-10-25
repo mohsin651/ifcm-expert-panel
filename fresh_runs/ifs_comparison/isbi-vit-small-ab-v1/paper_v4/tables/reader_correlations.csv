@@ -1,0 +1,2 @@
+measure,n,n_patients,spearman,interpretation
+finding_ambiguity_vs_reader_disagreement,305,165,0.5939917008391372,descriptive; not causal; no residualization

@@ -1,0 +1,2 @@
+dataset,protocol,fit_calibration_rows,all_test_rows,diagnosis_auroc_rows,four_class_accuracy_rows,bootstrap_unit
+derm,derm_official_index_split,616,395,395,355,case

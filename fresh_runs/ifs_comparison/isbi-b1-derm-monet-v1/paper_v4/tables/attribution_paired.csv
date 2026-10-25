@@ -1,0 +1,7 @@
+reference,left,right,difference,ci_low,ci_high,n_wrong,n_perception,valid_bootstrap,invalid_bootstrap,bootstrap_unit,seed,n_requested
+fixed_a_errors,a_flip_minus_know,a_one_minus_confidence,-0.0354729729729729,-0.1904047049441785,0.118893548014493,93,37,5000,0,case,2,5000
+fixed_a_errors,a_flip_minus_know,b1_pi,-0.1701254826254826,-0.289887864298725,-0.0515010281355646,93,37,5000,0,case,2,5000
+fixed_a_errors,a_flip_minus_know,b2_pi,0.0518822393822394,-0.1643352576686412,0.2701947803400303,93,37,5000,0,case,2,5000
+fixed_a_errors,a_one_minus_confidence,b1_pi,-0.1346525096525097,-0.3083728316812809,0.0443798310666454,93,37,5000,0,case,2,5000
+fixed_a_errors,a_one_minus_confidence,b2_pi,0.0873552123552123,-0.0604293991467739,0.2343103625631042,93,37,5000,0,case,2,5000
+fixed_a_errors,b1_pi,b2_pi,0.2220077220077221,0.0098341913234706,0.4285747788796569,93,37,5000,0,case,2,5000

@@ -1,0 +1,42 @@
+{
+  "Qwen/Qwen2.5-7B-Instruct": {
+    "revision": "a09a35458c702b33eeacc393d103063234e8bc28",
+    "snapshot": "/var/tmp/ifcm-llm-cache-mimam/hub/models--Qwen--Qwen2.5-7B-Instruct/snapshots/a09a35458c702b33eeacc393d103063234e8bc28"
+  },
+  "mistralai/Mistral-7B-Instruct-v0.3": {
+    "revision": "c170c708c41dac9275d15a8fff4eca08d52bab71",
+    "snapshot": "/var/tmp/ifcm-llm-cache-mimam/hub/models--mistralai--Mistral-7B-Instruct-v0.3/snapshots/c170c708c41dac9275d15a8fff4eca08d52bab71"
+  },
+  "allenai/OLMo-2-1124-7B-Instruct": {
+    "revision": "470b1fba1ae01581f270116362ee4aa1b97f4c84",
+    "snapshot": "/var/tmp/ifcm-llm-cache-mimam/hub/models--allenai--OLMo-2-1124-7B-Instruct/snapshots/470b1fba1ae01581f270116362ee4aa1b97f4c84"
+  },
+  "microsoft/Phi-3.5-mini-instruct": {
+    "revision": "2fe192450127e6a83f7441aef6e3ca586c338b77",
+    "snapshot": "/var/tmp/ifcm-llm-cache-mimam/hub/models--microsoft--Phi-3.5-mini-instruct/snapshots/2fe192450127e6a83f7441aef6e3ca586c338b77"
+  },
+  "aaditya/Llama3-OpenBioLLM-8B": {
+    "revision": "70d6bb521cab6ca755b675ade38831eedf89d31c",
+    "snapshot": "/var/tmp/ifcm-llm-cache-mimam/hub/models--aaditya--Llama3-OpenBioLLM-8B/snapshots/70d6bb521cab6ca755b675ade38831eedf89d31c"
+  },
+  "m42-health/Llama3-Med42-8B": {
+    "revision": "ceab7e7ee4b9dbde7ba82867f34274db51487d83",
+    "snapshot": "/var/tmp/ifcm-llm-cache-mimam/hub/models--m42-health--Llama3-Med42-8B/snapshots/ceab7e7ee4b9dbde7ba82867f34274db51487d83"
+  },
+  "01-ai/Yi-1.5-9B-Chat": {
+    "revision": "1a0fc698cf883c4f5c325f026ca79f0ebd9955a5",
+    "snapshot": "/var/tmp/ifcm-llm-cache-mimam/hub/models--01-ai--Yi-1.5-9B-Chat/snapshots/1a0fc698cf883c4f5c325f026ca79f0ebd9955a5"
+  },
+  "ibm-granite/granite-3.1-8b-instruct": {
+    "revision": "4009206d5fc95d2e65a7b7633e159d6e97e25d35",
+    "snapshot": "/var/tmp/ifcm-llm-cache-mimam/hub/models--ibm-granite--granite-3.1-8b-instruct/snapshots/4009206d5fc95d2e65a7b7633e159d6e97e25d35"
+  },
+  "tiiuae/Falcon3-7B-Instruct": {
+    "revision": "1e57a0ecd176c7c139f289c60a74e57f887c3dfb",
+    "snapshot": "/var/tmp/ifcm-llm-cache-mimam/hub/models--tiiuae--Falcon3-7B-Instruct/snapshots/1e57a0ecd176c7c139f289c60a74e57f887c3dfb"
+  },
+  "microsoft/Phi-4-mini-instruct": {
+    "revision": "cfbefacb99257ffa30c83adab238a50856ac3083",
+    "snapshot": "/var/tmp/ifcm-llm-cache-mimam/hub/models--microsoft--Phi-4-mini-instruct/snapshots/cfbefacb99257ffa30c83adab238a50856ac3083"
+  }
+}

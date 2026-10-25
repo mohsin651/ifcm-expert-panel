@@ -1,0 +1,2 @@
+dataset,protocol,fit_calibration_rows,all_test_rows,diagnosis_auroc_rows,four_class_accuracy_rows,bootstrap_unit
+lidc,strict_outer_original_seed0,740,588,462,,patient

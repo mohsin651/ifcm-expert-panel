@@ -1,0 +1,14 @@
+score,target,n,positives,auroc
+a_low_confidence,A_error_vs_correct,355,93,0.7159977017155053
+a_low_confidence,perception_vs_knowledge_on_A_errors,93,37,0.5366795366795367
+total_hesitation,A_error_vs_correct,355,93,0.50188787654929
+total_hesitation,perception_vs_knowledge_on_A_errors,93,37,0.6032818532818534
+baseline_hesitation,A_error_vs_correct,355,93,0.4005171140113273
+baseline_hesitation,perception_vs_knowledge_on_A_errors,93,37,0.640926640926641
+image_added_hesitation,A_error_vs_correct,355,93,0.5158827874907658
+image_added_hesitation,perception_vs_knowledge_on_A_errors,93,37,0.3976833976833977
+edge_added_hesitation,A_error_vs_correct,355,93,0.6057621275547895
+edge_added_hesitation,perception_vs_knowledge_on_A_errors,93,37,0.403957528957529
+source_balance,A_error_vs_correct,355,93,0.39797258474924074
+source_balance,perception_vs_knowledge_on_A_errors,93,37,0.5656370656370657
+existing_A_flip_minus_knowledge,perception_vs_knowledge_on_A_errors,93,37,0.5012065637065638

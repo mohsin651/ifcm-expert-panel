@@ -1,0 +1,3 @@
+# Limitations
+
+The signed IFS projection is a proposed operator, not a validated clinical rule. Five CNN seeds and 30 Derm probes do not provide calibrated uncertainty intervals. B2 edge widths combine unsure mass and member disagreement heuristically. Operational perception/knowledge errors use an oracle-finding counterfactual, not clinician-annotated causal explanations. Historical pilot results were known before this method design, limiting claims of prospective pre-registration. Derm embeddings have positional alignment only and no patient IDs, so its case bootstrap may understate dependence. Reader agreement is descriptive and does not establish clinical validity. Small perception-error counts make attribution intervals wide.

@@ -1,0 +1,19 @@
+{
+  "a_errors": 88,
+  "dataset": "lidc",
+  "eligible_rows": 462,
+  "fit_threshold_rows": 740,
+  "interpretation": "IFS pi is residual hesitation, not calibrated error probability; source terms are order-symmetric increments; operational error types are counterfactual, not clinician-annotated causes. Test results were already inspected during prior method development.",
+  "knowledge_errors": 56,
+  "mean_pi_components_on_eligible": {
+    "both": 0.9864455981431459,
+    "edge_added": 0.46199233072789764,
+    "image_added": 0.07116607149177687,
+    "neither": 0.4532871959234715
+  },
+  "perception_errors": 32,
+  "protocol": "strict_outer_original_seed0",
+  "run_id": "isbi-b1-lidc-v1",
+  "status": "exploratory_posthoc",
+  "test_rows": 588
+}

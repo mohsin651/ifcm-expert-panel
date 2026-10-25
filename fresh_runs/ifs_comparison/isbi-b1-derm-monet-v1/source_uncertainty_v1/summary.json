@@ -1,0 +1,19 @@
+{
+  "a_errors": 93,
+  "dataset": "derm",
+  "eligible_rows": 355,
+  "fit_threshold_rows": 616,
+  "interpretation": "IFS pi is residual hesitation, not calibrated error probability; source terms are order-symmetric increments; operational error types are counterfactual, not clinician-annotated causes. Test results were already inspected during prior method development.",
+  "knowledge_errors": 56,
+  "mean_pi_components_on_eligible": {
+    "both": 0.9776454060555227,
+    "edge_added": 0.4515614694799041,
+    "image_added": 0.05055653077980193,
+    "neither": 0.47552740579581665
+  },
+  "perception_errors": 37,
+  "protocol": "derm_official_index_split",
+  "run_id": "isbi-b1-derm-monet-v1",
+  "status": "exploratory_posthoc",
+  "test_rows": 395
+}

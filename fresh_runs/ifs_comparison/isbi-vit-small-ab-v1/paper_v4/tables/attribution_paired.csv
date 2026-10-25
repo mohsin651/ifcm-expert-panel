@@ -1,0 +1,7 @@
+reference,left,right,difference,ci_low,ci_high,n_wrong,n_perception,valid_bootstrap,invalid_bootstrap,bootstrap_unit,seed,n_requested
+fixed_a_errors,a_flip_minus_know,a_one_minus_confidence,-0.14302884615384626,-0.29221028971028973,0.03398759503801519,68,16,5000,0,patient,2,5000
+fixed_a_errors,a_flip_minus_know,b1_pi,0.030048076923076872,-0.18986243087837634,0.28070531442241964,68,16,5000,0,patient,2,5000
+fixed_a_errors,a_flip_minus_know,b2_pi,0.24519230769230765,-0.046355388961321124,0.533465339008817,68,16,5000,0,patient,2,5000
+fixed_a_errors,a_one_minus_confidence,b1_pi,0.17307692307692313,-0.017974509803921616,0.35811087096208877,68,16,5000,0,patient,2,5000
+fixed_a_errors,a_one_minus_confidence,b2_pi,0.3882211538461539,0.12396559468199787,0.6250033566058003,68,16,5000,0,patient,2,5000
+fixed_a_errors,b1_pi,b2_pi,0.21514423076923078,0.002140478056426382,0.4354896313364054,68,16,5000,0,patient,2,5000

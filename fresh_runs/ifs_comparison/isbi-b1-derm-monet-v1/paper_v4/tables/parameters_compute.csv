@@ -1,0 +1,4 @@
+model,diagnoses,fit_calibration_parameters,reasoning_weights_fitted_from_diagnosis_labels,runtime_seconds,runtime_note
+A,4,8,0,,Not logged in immutable training manifests
+B1,4,8,0,,Not logged in immutable training manifests
+B2,4,8,0,,Not logged in immutable training manifests

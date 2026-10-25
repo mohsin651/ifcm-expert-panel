@@ -1,0 +1,17 @@
+model,reference,score,n_wrong,n_perception,n_knowledge,auroc
+a,model_specific,one_minus_confidence,93,37,56,0.5366795366795367
+b1,model_specific,one_minus_confidence,98,49,49,0.4131611828404831
+b1,model_specific,diagnosis_pi,98,49,49,0.7351103706788837
+b2,model_specific,one_minus_confidence,136,15,121,0.26721763085399447
+b2,model_specific,diagnosis_pi,136,15,121,0.26721763085399447
+a,fixed_a_errors,one_minus_confidence,93,37,56,0.5366795366795367
+b1,fixed_a_errors,one_minus_confidence,93,37,56,0.4715250965250965
+b1,fixed_a_errors,diagnosis_pi,93,37,56,0.6713320463320465
+b2,fixed_a_errors,one_minus_confidence,93,37,56,0.44932432432432434
+b2,fixed_a_errors,diagnosis_pi,93,37,56,0.44932432432432434
+a,model_specific,perc_flip,93,37,56,0.5197876447876448
+a,fixed_a_errors,perc_flip,93,37,56,0.5197876447876448
+a,model_specific,perc_probe,93,37,56,0.5197876447876448
+a,fixed_a_errors,perc_probe,93,37,56,0.5197876447876448
+a,model_specific,rank_perc_flip_minus_know_flip,93,37,56,0.5012065637065638
+a,fixed_a_errors,rank_perc_flip_minus_know_flip,93,37,56,0.5012065637065638

@@ -1,0 +1,3 @@
+ablation,auroc,accuracy,n_fit_calibration,n_test_auroc,notes
+B1_zero_finding_hesitancy_refit_calibration,0.8763116255829448,0.8354978354978355,740,462,Point IFS from identical finding means; fit-only sigmoid refit
+B2_zero_edge_hesitancy_equals_B1,0.8865756162558295,0.8463203463203464,740,462,"Exact operator identity, separately verified in B2 CLI"

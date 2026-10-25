@@ -1,0 +1,2 @@
+measure,n_nodules,n_patients,spearman,ci_low,ci_high,valid_bootstrap,bootstrap_unit,interpretation
+finding_ambiguity_vs_reader_disagreement,305,165,0.5939917008391372,0.4951033216121265,0.6763283468462377,5000,patient,"descriptive, unadjusted, not causal"

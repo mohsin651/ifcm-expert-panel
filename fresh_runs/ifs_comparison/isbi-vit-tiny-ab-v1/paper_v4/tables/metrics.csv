@@ -1,0 +1,4 @@
+model,dataset,protocol,endpoint,n_auc,n_accuracy,n_patients,auroc,accuracy,brier,n_errors,n_perception_errors,n_knowledge_errors
+a,lidc,strict_outer_original_seed0,malignancy,462,462,195,0.8844520319786808,0.841991341991342,0.12508988205342586,73,19,54
+b1,lidc,strict_outer_original_seed0,malignancy,462,462,195,0.8915722851432379,0.8484848484848485,0.1261133270274295,70,21,49
+b2,lidc,strict_outer_original_seed0,malignancy,462,462,195,0.8137283477681546,0.658008658008658,0.2146601204355475,158,15,143

@@ -1,0 +1,22 @@
+\begin{tabular}{lllllll}
+\hline
+model & reference & score & n\_wrong & n\_perception & n\_knowledge & auroc \\
+\hline
+a & model\_specific & one\_minus\_confidence & 93 & 37 & 56 & 0.5367 \\
+b1 & model\_specific & one\_minus\_confidence & 98 & 49 & 49 & 0.4132 \\
+b1 & model\_specific & diagnosis\_pi & 98 & 49 & 49 & 0.7351 \\
+b2 & model\_specific & one\_minus\_confidence & 136 & 15 & 121 & 0.2672 \\
+b2 & model\_specific & diagnosis\_pi & 136 & 15 & 121 & 0.2672 \\
+a & fixed\_a\_errors & one\_minus\_confidence & 93 & 37 & 56 & 0.5367 \\
+b1 & fixed\_a\_errors & one\_minus\_confidence & 93 & 37 & 56 & 0.4715 \\
+b1 & fixed\_a\_errors & diagnosis\_pi & 93 & 37 & 56 & 0.6713 \\
+b2 & fixed\_a\_errors & one\_minus\_confidence & 93 & 37 & 56 & 0.4493 \\
+b2 & fixed\_a\_errors & diagnosis\_pi & 93 & 37 & 56 & 0.4493 \\
+a & model\_specific & perc\_flip & 93 & 37 & 56 & 0.5198 \\
+a & fixed\_a\_errors & perc\_flip & 93 & 37 & 56 & 0.5198 \\
+a & model\_specific & perc\_probe & 93 & 37 & 56 & 0.5198 \\
+a & fixed\_a\_errors & perc\_probe & 93 & 37 & 56 & 0.5198 \\
+a & model\_specific & rank\_perc\_flip\_minus\_know\_flip & 93 & 37 & 56 & 0.5012 \\
+a & fixed\_a\_errors & rank\_perc\_flip\_minus\_know\_flip & 93 & 37 & 56 & 0.5012 \\
+\hline
+\end{tabular}

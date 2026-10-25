@@ -1,0 +1,13 @@
+{
+  "bootstrap": 5000,
+  "dataset": "derm",
+  "encoder": "monet",
+  "note": "Prespecified point-IFS ablation and descriptive fit-only edge quality; no test-set tuning.",
+  "outputs": {
+    "ablations.csv": "9b531c6e0cd0959528d312931912e2c0b81f25d3664d4f7d256eb702207ac42e",
+    "edge_detection.csv": "ac89ae546cad2438ab2c6630b7355d9bfd96a0af22aafa6feadbc0934a24b7bd",
+    "parameters_compute.csv": "041c04ea7f2e5bf86322524fd6317c542b5feb6e3e61bab8bebe5558411f140c",
+    "reader_clustered_ci.csv": "4fa57757f8cfc315df56646b70d489c09f7ba72cee01d045f6687e5fad2cec3f"
+  },
+  "source_evaluation_sha256": "040c757bce7b35ed923cbd70fd53e962f8f487530bae4c2572cdb5a23f30385f"
+}

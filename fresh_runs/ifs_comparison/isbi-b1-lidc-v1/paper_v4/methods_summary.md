@@ -1,0 +1,3 @@
+# Methods summary
+
+The image pathway predicts clinical findings from CT or dermoscopic images. Ten LLMs answer general finding-to-diagnosis questions without patient images. Model A uses one weighted sum followed by independent diagnosis sigmoids. Experimental B1 maps finding-draw spread to intuitionistic triples and applies a single-step signed support/opposition operator; B2 additionally uses heuristic LLM-member edge intervals. Neither is an iterative FCM. All three use the same cases, finding means, full-precision panel mean and calibration capacity. LIDC uses patient-grouped strict CNN fitting and patient-clustered bootstrap; Derm uses saved official index splits and case-level bootstrap.

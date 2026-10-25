@@ -1,0 +1,17 @@
+model,reference,score,n_wrong,n_perception,n_knowledge,auroc
+a,model_specific,one_minus_confidence,68,16,52,0.780048076923077
+b1,model_specific,one_minus_confidence,71,19,52,0.7570850202429149
+b1,model_specific,diagnosis_pi,71,19,52,0.5910931174089069
+b2,model_specific,one_minus_confidence,158,15,143,0.8634032634032633
+b2,model_specific,diagnosis_pi,158,15,143,0.1365967365967366
+a,fixed_a_errors,one_minus_confidence,68,16,52,0.780048076923077
+b1,fixed_a_errors,one_minus_confidence,68,16,52,0.747596153846154
+b1,fixed_a_errors,diagnosis_pi,68,16,52,0.6069711538461539
+b2,fixed_a_errors,one_minus_confidence,68,16,52,0.5949519230769231
+b2,fixed_a_errors,diagnosis_pi,68,16,52,0.3918269230769231
+a,model_specific,perc_bern,68,16,52,0.7716346153846154
+a,fixed_a_errors,perc_bern,68,16,52,0.7716346153846154
+a,model_specific,perc_boot,68,16,52,0.7283653846153846
+a,fixed_a_errors,perc_boot,68,16,52,0.7283653846153846
+a,model_specific,rank_perc_bern_minus_know_flip,68,16,52,0.6370192307692307
+a,fixed_a_errors,rank_perc_bern_minus_know_flip,68,16,52,0.6370192307692307

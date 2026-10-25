@@ -1,0 +1,25 @@
+{
+  "bootstrap": 2000,
+  "code_sha256": "5915545c9837b9ca283d40980a64dc806dced44bae01128f45e0dd20c336c9d3",
+  "dataset": "derm",
+  "inputs_sha256": {
+    "/autofs/unitytravail/travail/mimam/s_project/ifcm-expert-panel/fresh_runs/ifs_comparison/isbi-b1-derm-monet-v1/a/fit_predictions.npz": "ad6aadf2a1a51342ce70a5402786ff853d50fd2db132aa50989473b6d960353b",
+    "/autofs/unitytravail/travail/mimam/s_project/ifcm-expert-panel/fresh_runs/ifs_comparison/isbi-b1-derm-monet-v1/a/test_predictions.npz": "8d4aad8ee4f3f97ddf3b2d739c31e81bda851b08abb7a8d231084173518783a9",
+    "/autofs/unitytravail/travail/mimam/s_project/ifcm-expert-panel/fresh_runs/ifs_comparison/isbi-b1-derm-monet-v1/b1/fit_predictions.npz": "aabd19b8d6112629166650e6e0637b1cdb8f9ef340a1ff115ac5eb1a8e9d7a76",
+    "/autofs/unitytravail/travail/mimam/s_project/ifcm-expert-panel/fresh_runs/ifs_comparison/isbi-b1-derm-monet-v1/b1/test_predictions.npz": "b7748770645fbdfde497d9e69899a11ba3dda54e6f10326be5bfc95bfcab970a",
+    "/autofs/unitytravail/travail/mimam/s_project/ifcm-expert-panel/fresh_runs/ifs_comparison/isbi-b1-derm-monet-v1/b2/edge_bounds.npz": "14ad7502beb0992986aed0c2bc8fa42c7b68e6a7864050d685a6cd923164fc6f",
+    "/autofs/unitytravail/travail/mimam/s_project/ifcm-expert-panel/fresh_runs/ifs_comparison/isbi-b1-derm-monet-v1/b2/fit_predictions.npz": "3a4041ff15f5b41aee2f5be6e849e40abd9e1c62b8107913119e8029000adc18",
+    "/autofs/unitytravail/travail/mimam/s_project/ifcm-expert-panel/fresh_runs/ifs_comparison/isbi-b1-derm-monet-v1/b2/test_predictions.npz": "c6b38ecad6584056951181027c391d1a495257b514cf0ac96eb9fa51500990a8",
+    "/autofs/unitytravail/travail/mimam/s_project/ifcm-expert-panel/fresh_runs/ifs_comparison/isbi-b1-derm-monet-v1/evaluation_v2/decision_flips.csv": "8b32fd42c02afaf977e2e121915b48c67505f8e0b0bcabc047243667642b601d"
+  },
+  "outputs_sha256": {
+    "case_scores.csv": "cf892a2e516524b010070fcde61616624404b256cfde3e05bca85a189b925882",
+    "paired_auc.csv": "207c03612e5249f95a3fe16bc64578ed078e0ca8a85f732441c8197c32e265c2",
+    "score_metrics.csv": "aa0539c980ec946a99c0cfb3354a492d1ce9b3d8d6d030c7b411925eb563d48a",
+    "summary.json": "e5e2ba47bd69aac5815e8b99a101e4c0dace9f16a5b5873a4468d657d5fa50ce",
+    "triage.csv": "86d33c7d460a73458c12739a86f978d8e597cc15741187138fcad8a1a45e0f5c"
+  },
+  "run_id": "isbi-b1-derm-monet-v1",
+  "status": "exploratory_posthoc",
+  "threshold_fit_quantile": 0.8
+}

@@ -1,0 +1,25 @@
+{
+  "bootstrap": 2000,
+  "code_sha256": "5915545c9837b9ca283d40980a64dc806dced44bae01128f45e0dd20c336c9d3",
+  "dataset": "lidc",
+  "inputs_sha256": {
+    "/autofs/unitytravail/travail/mimam/s_project/ifcm-expert-panel/fresh_runs/ifs_comparison/isbi-b1-lidc-v1/a/fit_predictions.npz": "c6553723e4a271b41e3c4c60908972faeb1b6ba723dbbcc8d9045b45fd7be396",
+    "/autofs/unitytravail/travail/mimam/s_project/ifcm-expert-panel/fresh_runs/ifs_comparison/isbi-b1-lidc-v1/a/test_predictions.npz": "29e91eadc2e83d5f690f58ec6c72fa316e3969245300653c8e60c51e9f8a599d",
+    "/autofs/unitytravail/travail/mimam/s_project/ifcm-expert-panel/fresh_runs/ifs_comparison/isbi-b1-lidc-v1/b1/fit_predictions.npz": "e313f06a6ea6e0838f05d99c0f2ba8781ba643b611d0b9931843c2f17d962ede",
+    "/autofs/unitytravail/travail/mimam/s_project/ifcm-expert-panel/fresh_runs/ifs_comparison/isbi-b1-lidc-v1/b1/test_predictions.npz": "69d1395f55e484a61cc8c652b2a36a8a2e135c648b4471b1dc0d10486a0d546a",
+    "/autofs/unitytravail/travail/mimam/s_project/ifcm-expert-panel/fresh_runs/ifs_comparison/isbi-b1-lidc-v1/b2/edge_bounds.npz": "b54815e6aa69329159e30768149ec7581e3cbfb6465f1965a8f00bbbbe288592",
+    "/autofs/unitytravail/travail/mimam/s_project/ifcm-expert-panel/fresh_runs/ifs_comparison/isbi-b1-lidc-v1/b2/fit_predictions.npz": "070a87449d3b10c533cceb9a1d0a9cba2e876b0f166ea8d5bbeffd9a7ff74390",
+    "/autofs/unitytravail/travail/mimam/s_project/ifcm-expert-panel/fresh_runs/ifs_comparison/isbi-b1-lidc-v1/b2/test_predictions.npz": "6d0d9b607bb671d15380ab263caa6ba76530d5c01b3d890d4c16488a665c54a8",
+    "/autofs/unitytravail/travail/mimam/s_project/ifcm-expert-panel/fresh_runs/ifs_comparison/isbi-b1-lidc-v1/evaluation_v2/decision_flips.csv": "d653cc9d08baa1a76c585d9d0d63f5310d90264d7af732d70ae07cef915e4a3d"
+  },
+  "outputs_sha256": {
+    "case_scores.csv": "0479b61d92b40158cab09e9c9acf2decb30af87d76aa78bb991fb94d9c5104c6",
+    "paired_auc.csv": "6dd6e24ce13d6db8cc405c1802a7fe26e0ece621e6ca551757d5268514c90000",
+    "score_metrics.csv": "255037c4e64eace34f946344b60505984f91b18aed1716ccb0d37db64d94733f",
+    "summary.json": "316e86f3ad758566ece8e301209f6019cc52577a67980e1634e25305791bd185",
+    "triage.csv": "65be43fb559006b51f6ff803acc4cfbeddf7c3eb97c572b63a9ac00c1543e44d"
+  },
+  "run_id": "isbi-b1-lidc-v1",
+  "status": "exploratory_posthoc",
+  "threshold_fit_quantile": 0.8
+}

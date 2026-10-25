@@ -1,0 +1,13 @@
+{
+  "bootstrap": 5000,
+  "dataset": "lidc",
+  "encoder": "cnn",
+  "note": "Prespecified point-IFS ablation and descriptive fit-only edge quality; no test-set tuning.",
+  "outputs": {
+    "ablations.csv": "ce288af43fcea4a93cfd43f72552e15a13988927549cefb72503f90e61f0c1b3",
+    "edge_detection.csv": "68cbf2866d0375e23343f3f0ceac892bed5ac6cc68a787de62ec2179825c1866",
+    "parameters_compute.csv": "a371772db4ee0315d9d4b05a6a2fbc2050297b3465d13fee4189faa4068cab93",
+    "reader_clustered_ci.csv": "a647f01982887f5b9e5f077af98eaa0a8a8c2210ba93f999bc536364af568540"
+  },
+  "source_evaluation_sha256": "19373348e61ca0b607c9da93945e0a2241f3ef3da7fd69200d41cc1ea59dc60f"
+}

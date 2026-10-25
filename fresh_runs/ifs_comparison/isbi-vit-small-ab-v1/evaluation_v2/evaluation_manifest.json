@@ -1,0 +1,32 @@
+{
+  "bootstrap": 5000,
+  "dataset": "lidc",
+  "encoder": "cnn",
+  "limitations": [
+    "LIDC is strict for CNN fitting, but method design had prior exposure to historical pilot results.",
+    "Derm case-level bootstrap assumes independent rows; patient IDs are unavailable.",
+    "Attribution categories are oracle counterfactuals, not annotated causal explanations."
+  ],
+  "n_all_test": 588,
+  "n_diagnosis": 462,
+  "n_four_class": null,
+  "output_hashes": {
+    "attribution.csv": "bab0818894e60d48c733b8dbe15b3e6c712622d8da247eb7e3024a64d8b2214d",
+    "attribution_paired.csv": "419e08a827b526b74abff67614a3c1049df376303bc55371843cf27e14f5ded8",
+    "calibration.csv": "4cb0af44de484cbe22a20f1d035af2cbd7e20b24e9470fa384d67840da4cd257",
+    "decision_flips.csv": "c93cc4749c07aba11ccc9f0a524bf85f04e5fd5df67bda81361c95bfb8af4114",
+    "edge_quality.csv": "933306b19d201e2a478c39968c683e65606396dbf8c1857f1204f2d7f411ac9d",
+    "finding_auroc.csv": "4153d8a6fd6041b6862dbba15c51822f894e4b3366e5a374bca2158cf36a8f39",
+    "ifs_diagnostics.csv": "1eb9e159b5e75304438cab5ff57758a7fca021de0d3343fa0f0af3f353572093",
+    "metrics.csv": "9b3dca491cc66f886b55ae0e3282e111802c7af99c3f082eb378bf1f3219917b",
+    "paired_comparisons.csv": "ee425acc961cea03d9635d3361287fd53f866f96e872a1b785199c6a8da7cd0c",
+    "reader_correlations.csv": "5909b406dc6357b2b4c3facd65ccfbb692f775b63177abdce6d678d623844419"
+  },
+  "prediction_hashes": {
+    "a": "572bfd54e36171c7c4a7a41eeb9c75a4973de8c67e655890f0470a762a40c777",
+    "b1": "90ea7d4b7e87e0e4206670fe5a7ea30451f26485ddb62194e3490c313cf4cb87",
+    "b2": "8593a2c52e80c1cc49c2368fc41e497b7c5de23c7a4f371aee248edc52b7c870"
+  },
+  "protocol": "strict_outer_original_seed0",
+  "seed": 2
+}

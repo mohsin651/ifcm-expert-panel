@@ -1,0 +1,9 @@
+{
+  "fit_clear_nodules": 740,
+  "outer_split_sha256": "bc68a17c7635090ded6b6e2066d81082583ab3e0f202fd0eb16f4c5d5e8d297e",
+  "protocol": "strict_outer_original_seed0",
+  "source_manifest_sha256": "31e5dd703c7ca1183f00706ef6ece16a0deb4e9acd36c01562fcf36eaea5ee60",
+  "status": "PASS",
+  "test_clear_nodules": 462,
+  "test_patients": 195
+}
